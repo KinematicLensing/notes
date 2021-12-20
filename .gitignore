@@ -1,0 +1,14 @@
+*.pkl
+
+*.o
+*.out
+*.so
+*.pyc
+*.a
+._*
+*~
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+
+.vscode/
